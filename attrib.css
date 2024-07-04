@@ -11,6 +11,6 @@ body {
 
 img {
     max-width: 90vw;
-    max-height: 90vh;
+    max-height: 75vh;
     object-fit: contain;
 }
